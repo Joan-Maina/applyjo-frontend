@@ -1,0 +1,20 @@
+.opportunities {
+  padding-top: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-left: 10%;
+  margin-top: 0px;
+  width: 75%;
+}
+.opportunity {
+  width: 500px;
+  border: 1px solid black;
+  margin: 20px;
+  box-shadow: 2px 2px;
+}
+.addjob {
+  margin-left: 40%;
+  min-width: fit-content;
+}

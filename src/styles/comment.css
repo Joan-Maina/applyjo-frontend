@@ -1,0 +1,11 @@
+.comment {
+  border-bottom: 1px solid gray;
+  padding: 20px;
+  width: 500px;
+}
+.comments {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 70px;
+}

@@ -1,0 +1,36 @@
+.blog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.post {
+  border: 0.001px solid black;
+  box-shadow: 2px 5px;
+  width: 500px;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+form {
+  background-color: white;
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  margin-left: 120px;
+}
+span {
+  justify-content: space-evenly;
+  display: flex;
+}
+.title {
+  color: blue;
+  font-family: serif;
+  border-bottom: 2px solid gray;
+  width: fit-content;
+  text-align: end;
+  padding-top: 80px;
+}
